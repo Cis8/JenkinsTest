@@ -1,0 +1,5 @@
+com\dduportal\jenkins\demoapp\HelloWorldConfiguration.class
+com\dduportal\jenkins\demoapp\resources\HelloWorldResource.class
+com\dduportal\jenkins\demoapp\health\TemplateHealthCheck.class
+com\dduportal\jenkins\demoapp\HelloWorldApplication.class
+com\dduportal\jenkins\demoapp\api\Saying.class

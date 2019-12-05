@@ -1,0 +1,4 @@
+com\dduportal\jenkins\demoapp\test\HelloWorldEndpointTest.class
+com\dduportal\jenkins\demoapp\test\IntegrationTest.class
+com\dduportal\jenkins\demoapp\test\HelloWorldResourceTest.class
+com\dduportal\jenkins\demoapp\test\HelloWorldIntegrationTest.class
