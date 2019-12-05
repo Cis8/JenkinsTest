@@ -5,5 +5,5 @@
 ​group: edge
 ​jdk: openjdk8
 ​language: java
-​script: "​- mvn clean install"
+​script: "​- mvn clean install build"
 ​sudo: required
